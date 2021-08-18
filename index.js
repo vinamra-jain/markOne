@@ -19,6 +19,14 @@ var questionAnswers = [
   {
     question: "Who is my mentor?",
     answer: "Tanay Pratap"
+  },
+  {
+    question: "What do I prefer : Tea / Coffee / Water?",
+    answer: "Water"
+  },
+  {
+    question: "Which singer do I admire the most?",
+    answer: "Kishore Kumar"
   }
 ]
 
